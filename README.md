@@ -1,4 +1,4 @@
-### <h2>Olá! Meu nome é Leonardo Oliveira e seja bem-vindo(a) ao meu perfil 👋</h2>
+### <h2>Olá! Meu nome é Leonardo Oliveira e seja bem-vindo(a) ao meu perfil 🖐</h2>
 
 <div>
 <a href="https://www.linkedin.com/in/leonardo-oliveira-357ba8255/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
